@@ -1,2 +1,3 @@
-# crud-api
-CRUD API skeleton using node, express and typescript
+# CRUD API
+
+Simple CRUD frontend and backend skeletons
